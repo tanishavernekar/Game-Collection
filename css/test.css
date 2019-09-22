@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue
+}
+
+h1{
+font-size: 30px; 
+color: #329696;
+}
+h2{
+font-size: 20px; 
+color: #255db3;
+}
+
+.big{
+font-size: 60px; 
+}
