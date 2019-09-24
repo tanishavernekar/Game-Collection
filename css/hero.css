@@ -62,3 +62,21 @@ footer p{
     margin-right: auto;
     width: 50%;
   }
+
+  hr.new1 {
+    border-top: 0px solid linear-gradient(97.24deg, rgb(72, 62, 123) 0%, rgb(37, 28, 81) 100%);
+    /*width: auto;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;*/
+  }
+  
+  a{
+    color: whitesmoke;
+    font-weight: bold;
+  }
+
+  a:hover{
+    font-weight: bolder;
+    opacity: 40%;
+  }
